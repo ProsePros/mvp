@@ -1,0 +1,26 @@
+{
+  "name": "prosepros",
+  "version": "1.0.0",
+  "description": "Craft a better sentence with the ProsePro community",
+  "main": "server.js",
+  "dependencies": {
+    "webpack": "^1.14.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProsePros/mvp.git"
+  },
+  "author": "ProsePros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProsePros/mvp/issues"
+  },
+  "homepage": "https://github.com/ProsePros/mvp#readme"
+}
